@@ -1,11 +1,11 @@
 # Site settings
-author: Priscilla Leyva
-title: 
+author: Priscilla Leyva 
+title: My Journey Into Software Engineering
 header-img: img/home-bg.png
 email: pleyva.co89@gmail.com
-copyright_name: Priscilla Leyva
+copyright_name: Priscilla Leyva 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  It's Never Too Late To Do What You Love
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pleyvaco89
